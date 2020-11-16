@@ -1,0 +1,154 @@
+Students' grades:
+===================================================
+Student *9814:
+   total points: 52.0 out of 59.0
+   grade: B
+--------------------------------------------
+Student *9219:
+   total points: 60.0 out of 59.0
+   grade: F
+--------------------------------------------
+Student *8781:
+   total points: 47.0 out of 59.0
+   grade: C
+--------------------------------------------
+Student *8551:
+   total points: 48.5 out of 59.0
+   grade: B
+--------------------------------------------
+Student *8443:
+   total points: 58.0 out of 59.0
+   grade: A
+--------------------------------------------
+Student *8128:
+   total points: 56.0 out of 59.0
+   grade: A
+--------------------------------------------
+Student *8062:
+   total points: 61.0 out of 59.0
+   grade: F
+--------------------------------------------
+Student *7950:
+   total points: 50.0 out of 59.0
+   grade: B
+--------------------------------------------
+Student *7799:
+   total points: 44.5 out of 59.0
+   grade: C
+--------------------------------------------
+Student *7708:
+   total points: 41.5 out of 59.0
+   grade: C
+--------------------------------------------
+Student *7418:
+   total points: 58.0 out of 59.0
+   grade: A
+--------------------------------------------
+Student *7364:
+   total points: 53.5 out of 59.0
+   grade: A
+--------------------------------------------
+Student *6182:
+   total points: 32.5 out of 59.0
+   grade: F
+--------------------------------------------
+Student *6142:
+   total points: 58.5 out of 59.0
+   grade: A
+--------------------------------------------
+Student *5735:
+   total points: 46.5 out of 59.0
+   grade: C
+--------------------------------------------
+Student *5366:
+   total points: 57.5 out of 59.0
+   grade: A
+--------------------------------------------
+Student *5248:
+   total points: 52.5 out of 59.0
+   grade: B
+--------------------------------------------
+Student *5049:
+   total points: 54.0 out of 59.0
+   grade: A
+--------------------------------------------
+Student *5015:
+   total points: 47.0 out of 59.0
+   grade: C
+--------------------------------------------
+Student *4947:
+   total points: 44.0 out of 59.0
+   grade: C
+--------------------------------------------
+Student *4610:
+   total points: 57.0 out of 59.0
+   grade: A
+--------------------------------------------
+Student *4418:
+   total points: 37.5 out of 59.0
+   grade: D
+--------------------------------------------
+Student *4394:
+   total points: 51.5 out of 59.0
+   grade: B
+--------------------------------------------
+Student *4190:
+   total points: 57.5 out of 59.0
+   grade: A
+--------------------------------------------
+Student *3905:
+   total points: 40.5 out of 59.0
+   grade: D
+--------------------------------------------
+Student *3127:
+   total points: 46.0 out of 59.0
+   grade: C
+--------------------------------------------
+Student *3104:
+   total points: 49.0 out of 59.0
+   grade: B
+--------------------------------------------
+Student *3007:
+   total points: 51.0 out of 59.0
+   grade: B
+--------------------------------------------
+Student *2523:
+   total points: 23.5 out of 59.0
+   grade: F
+--------------------------------------------
+Student *2111:
+   total points: 45.5 out of 59.0
+   grade: C
+--------------------------------------------
+Student *1942:
+   total points: 55.0 out of 59.0
+   grade: A
+--------------------------------------------
+Student *1679:
+   total points: 52.0 out of 59.0
+   grade: B
+--------------------------------------------
+Student *1617:
+   total points: 50.0 out of 59.0
+   grade: B
+--------------------------------------------
+Student *1547:
+   total points: 48.0 out of 59.0
+   grade: B
+--------------------------------------------
+Student *0738:
+   total points: 47.5 out of 59.0
+   grade: B
+--------------------------------------------
+Student *0411:
+   total points: 50.5 out of 59.0
+   grade: B
+--------------------------------------------
+Student *0237:
+   total points: 39.0 out of 59.0
+   grade: D
+--------------------------------------------
+Student *0035:
+   total points: 60.5 out of 59.0
+   grade: F
+--------------------------------------------
