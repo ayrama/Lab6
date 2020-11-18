@@ -13,7 +13,7 @@ class Link{
         this.studentTotalPoints = studentTotalPoints;
         this.maxTotalPoints = maxTotalPoints;
         double ratio = studentTotalPoints/maxTotalPoints;
-        if(ratio >= 0.9 && ratio <=1.0){
+        if(ratio >= 0.9){
             grade = "A";
         }
         else if(ratio >= 0.8 && ratio < 0.9){
